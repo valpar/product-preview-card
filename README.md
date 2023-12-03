@@ -11,12 +11,17 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Desktop view:
+
+![](./Finished%20design/Desktop.png)
+
+Mobile view:
+
+![](./Finished%20design/Mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://product-preview-card-mauve-three.vercel.app/)
 
 ### Built with
 
